@@ -124,3 +124,4 @@ Know a cool tool that's not listed? [Create a PR](../../pulls) or [message me on
 - [aiux.courses](https://aiux.courses?utm_source=awesome-ai-tools-for-ui) - Independently curated AI UX sources and courses for working designers (patterns, papers, people, paid paths).
 - [Delightful frontend](https://developers.openai.com/blog/designing-delightful-frontends-with-gpt-5-4) - Practical techniques for steering AI toward polished frontend designs.
 - [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification?utm_source=awesome-ai-tools-for-ui) - UI spec for AI-assisted projects, covering tokens, component states, accessibility, and responsive design.
+- [hype or code](https://hypeorcode.com/c/cargo-bike-landing/?utm_source=awesome-ai-tools-for-ui) - The same landing page brief given to 40+ AI models, one shot each, shown side by side with time and cost.
